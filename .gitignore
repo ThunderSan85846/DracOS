@@ -3,3 +3,5 @@ out/
 *.img
 *.zip
 *.log
+temp_cedric/
+device/motorola/msm8937-common/
