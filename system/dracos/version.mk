@@ -1,0 +1,3 @@
+DRACOS_VERSION := 0.0.1-alpha
+DRACOS_CODENAME := FlameWing
+DRACOS_DEVICE := cedric

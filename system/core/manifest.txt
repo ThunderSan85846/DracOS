@@ -1,0 +1,13 @@
+DracOS Components
+
+- DracLauncher
+- DracSettings
+- DracTheme
+- DracUpdater
+
+Target Device:
+- Moto G5 (cedric)
+
+Base:
+- Android Open Source Project
+- LineageOS compatibility layer
